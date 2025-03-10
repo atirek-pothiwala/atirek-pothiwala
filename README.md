@@ -11,9 +11,9 @@ I'm a passionate Mobile Application Developer who is consistently growing & lear
 
 ### 🚀 My Journey
 
-My journey started with Android Development, but my first app was published on iOS. 
+My journey started with developing Android app, though my first app was published in iOS. 
 <br />
-With 8.9 years of experience in software development, I have 6+ years of experience in Android and iOS development and 3+ years in Flutter. 
+I'm currently holding 8.9 years of experience in software development, with 6+ years of experience in Android and iOS and 3+ years in Flutter. 
 <br />
 Currently, I'm on a continuous learning journey, focusing on gaining hands-on experience in iOS App Development using SwiftUI, with the aim of becoming a proficient Software Development Engineer.
 
@@ -22,7 +22,7 @@ Currently, I'm on a continuous learning journey, focusing on gaining hands-on ex
 - 🌱 I’m currently enhancing my skills in **SwiftUI**.
 - 👯 I’m looking to collaborate on **Flutter**, **iOS**, and **Android** projects.
 - 💬 Ask me about **Flutter (Dart)**, **iOS (Swift)**, **Android (Java)**, and **Firebase**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/atirekpothiwala) | [Email](mailto:atirekpothiwala@gmail.com) | [Portfolio](https://atirek-pothiwala.github.io/portfolio)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/atirekpothiwala) | [Instagram](https://www.instagram.com/atirek.pothiwala) | [Email](mailto:atirekpothiwala@gmail.com) | [Portfolio](https://atirek-pothiwala.github.io/portfolio)
 - ⚡ Fun fact: I’m an avid learner and a gamer, currently exploring 👨‍💻 **SwiftUI** and playing 👾 **Ghost Recon**.
 
 ### 🛠️ My Tech Stack
